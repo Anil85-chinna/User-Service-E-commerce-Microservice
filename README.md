@@ -12,3 +12,5 @@ DELETE    	/api/users/{id}	              Delete a user (admin or self)	         
 Method	Endpoint	Description
 POST	/api/users/refresh-token	Get a new access token using refresh
 
+
+if we required need to create end points like getAllUsers,fingById like that if we reuired.
